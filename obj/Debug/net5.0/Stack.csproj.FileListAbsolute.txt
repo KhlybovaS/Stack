@@ -1,0 +1,32 @@
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack.deps.json
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack.runtimeconfig.json
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack.runtimeconfig.dev.json
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack.dll
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/ref/Stack.dll
+/home/alexandra/Документы/StackGeneric/Stack/bin/Debug/net5.0/Stack.pdb
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.csproj.AssemblyReference.cache
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.AssemblyInfoInputs.cache
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.AssemblyInfo.cs
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.csproj.CoreCompileInputs.cache
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.dll
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/ref/Stack.dll
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.pdb
+/home/alexandra/Документы/StackGeneric/Stack/obj/Debug/net5.0/Stack.genruntimeconfig.cache
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack.deps.json
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack.runtimeconfig.json
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack.runtimeconfig.dev.json
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack.dll
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/ref/Stack.dll
+/home/alexandra/Документы/Stack github/Stack/bin/Debug/net5.0/Stack.pdb
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.csproj.AssemblyReference.cache
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.AssemblyInfoInputs.cache
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.AssemblyInfo.cs
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.csproj.CoreCompileInputs.cache
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.dll
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/ref/Stack.dll
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.pdb
+/home/alexandra/Документы/Stack github/Stack/obj/Debug/net5.0/Stack.genruntimeconfig.cache
